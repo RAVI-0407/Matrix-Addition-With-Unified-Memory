@@ -1,11 +1,6 @@
 # PCA-EXP-4-MATRIX-ADDITION-WITH-UNIFIED-MEMORY AY 23-24
-<h3>AIM:</h3>
-<h3>ENTER YOUR NAME</h3>
-<h3>ENTER YOUR REGISTER NO</h3>
-<h3>EX. NO</h3>
-<h3>DATE</h3>
-<h1> <align=center> MATRIX ADDITION WITH UNIFIED MEMORY </h3>
-  Refer to the program sumMatrixGPUManaged.cu. Would removing the memsets below affect performance? If you can, check performance with nvprof or nvvp.</h3>
+<h3>NAME: Raviprasath K</h3>
+<h3>REGISTER NO:212224230225</h3>
 
 ## AIM:
 To perform Matrix addition with unified memory and check its performance with nvprof.

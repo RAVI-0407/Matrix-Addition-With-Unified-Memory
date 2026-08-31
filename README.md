@@ -37,7 +37,6 @@ Allocate Host Memory
 
 ### CUDA Matrix Addition Using Unified Memory with memset()
 ```cuda
-# ex 04
 %%cuda
 #include <stdio.h>
 #include <cuda_runtime.h>
